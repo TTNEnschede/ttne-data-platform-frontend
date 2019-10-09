@@ -1,4 +1,4 @@
-# Fronten to the TTNE dataplatform
+# Frontend to the TTNE dataplatform
 
 This repository contains the implementation of the frontend application of the
 TTN Enschede data platform. The frontend consists of a map that displays the
@@ -25,7 +25,7 @@ npm run serve
 ### Compiles and minifies for production
 
 To build a production package use the command below. The package will be build and
-stored in the '/dist' folder.
+stored in the '/dist' folder. Don't forget to run npm install to install the required packages.
 ```
 npm run build
 ```
